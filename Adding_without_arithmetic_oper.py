@@ -1,4 +1,4 @@
-#Python Program to add 2 numbers without using arithmatic operators
+#Python Program to add 2 numbers without using arithmetic operators
 
 def add(a, b):
 	#Iteration is continued till carry diminishes
